@@ -1,1 +1,2 @@
-# Planify_User_Guide
+# Planify User Guide
+A complete guide for using the Planify app.
